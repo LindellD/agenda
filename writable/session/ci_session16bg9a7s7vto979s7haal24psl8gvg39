@@ -1,0 +1,9 @@
+__ci_last_regenerate|i:1716949725;_ci_previous_url|s:54:"http://localhost/agenda2/public/index.php/docentes/new";_ci_old_input|a:2:{s:3:"get";a:0:{}s:4:"post";a:7:{s:7:"user_id";s:5:"12345";s:6:"nombre";s:5:"Juan ";s:8:"apellido";s:5:"Perez";s:5:"grado";s:7:"Segundo";s:7:"seccion";s:1:"A";s:8:"telefono";s:9:"987654321";s:5:"curso";s:1:"5";}}__ci_vars|a:3:{s:13:"_ci_old_input";s:3:"old";s:21:"_ci_validation_errors";s:3:"old";s:5:"erorr";s:3:"old";}_ci_validation_errors|a:1:{s:5:"clave";s:28:"The clave field is required.";}erorr|s:237:"<!-- DEBUG-VIEW START 1 SYSTEMPATH\Validation\Views\list.php -->
+	<div class="errors" role="alert">
+		<ul>
+					<li>The clave field is required.</li>
+				</ul>
+	</div>
+
+<!-- DEBUG-VIEW ENDED 1 SYSTEMPATH\Validation\Views\list.php -->
+";
